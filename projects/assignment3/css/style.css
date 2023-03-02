@@ -1,0 +1,44 @@
+*{
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+
+.benner-img{
+    background-image: url("../images/banner.png");
+    background-repeat: no-repeat;
+    margin-left: 60px;
+    margin-top: 10px;
+    height: 550px;
+    max-width: 1200px;
+    
+}
+
+.cardImg{
+    height: 90px;
+    width: 90px;
+}
+
+.card-br{
+    border: none;
+}
+
+.banner-img-2{
+    background-image: url("../images/slider-1.jpg");
+    height: 500px;    
+}
+.banner-img-1{
+    background-image: url("../images/slider-2.jpg");
+    height: 500px    
+}
+.banner-img-3{
+    background-image: url("../images/slider-3.jpg");
+    height: 500px;
+}
+.cardImg-2{
+    height: 120px;
+    width: 120px;
+    margin-left: 580px;
+}
+
